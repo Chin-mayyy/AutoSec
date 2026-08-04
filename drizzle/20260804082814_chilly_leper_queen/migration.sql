@@ -1,0 +1,1 @@
+ALTER TABLE "scan" ADD COLUMN "installation_id" text NOT NULL;
